@@ -1,6 +1,6 @@
 # 🧮 AreaDraw
 
-**Draw on a graph to calculate the area of any shape — freehand or by tracing!**
+**Draw on a graph to calculate the area of any shape - freehand or by tracing!**
 
 ---
 
