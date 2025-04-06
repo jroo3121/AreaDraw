@@ -17,7 +17,7 @@
 
 1. **Set your canvas dimensions** (X and Y range).  
 2. **Start drawing** your shape directly on the graph.  
-3. **View the area** instantly calculated as you draw.
+3. **View the area** instantly calculated after you draw.
 
 ---
 
